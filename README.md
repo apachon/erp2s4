@@ -1,6 +1,6 @@
 ## [ABAP Programming - Upskilling from SAP ERP to SAP S/4HANA](https://help.sap.com/learning-journeys/138b6c1f704243f19e76668d1769e2ed)
 
-![Planificación](/erp2s4/images/2023-09-13 22_51_05-apachon_erp2s4_ ABAP Programming - Upskilling from SAP ERP to SAP S_4HANA - Brav.png)
+![](https://github.com/apachon/sap-sm-sea-bpca/blob/main/images/2021-12-09%2010_43_26-Este%20sitio%20no%20es%20seguro.%20-%20Internet%20Explorer.png)
 
 ### Start with an overview
 - [ ] D75AW - Delta ABAP Workbench SAP NetWeaver 7.0 to 7.5
