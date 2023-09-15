@@ -20,7 +20,7 @@
 - [ ] GW100 - SAP Gateway - Building OData Services
       
 ### Stay current - Opcional
-- [ ] GW100 - What’s New in ABAP Platform 1809
+- [ ] What’s New in ABAP Platform 1809
 
 ### Expand your skills - Opcional
 - [ ] GW100 - PDF-Based Print Forms with SAP S/4HANA
