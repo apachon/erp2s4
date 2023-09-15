@@ -3,7 +3,7 @@
 ![image](https://github.com/apachon/erp2s4/assets/10708505/98827e83-9ab4-4459-b867-54bc2bca5fbc)
 
 ### Start with an overview
-- [ ] D75AW - Delta ABAP Workbench SAP NetWeaver 7.0 to 7.5
+- [X] D75AW - Delta ABAP Workbench SAP NetWeaver 7.0 to 7.5
 ### Become competent
 ### Stay current - Opcional
 ### Expand your skills - Opcional
