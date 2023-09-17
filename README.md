@@ -32,4 +32,4 @@
 - [X] [Getting Started with Discovery Center Missions](https://discovery-center.cloud.sap/protected/index.html#/mymissiondetail/72709/)
 
 ## Youtube
-- [ ] [Logali Group - ABAP para SAP HANA](https://www.youtube.com/watch?v=ZfCshZhplDM)
+- [X] [Logali Group - ABAP para SAP HANA](https://www.youtube.com/watch?v=ZfCshZhplDM) => Pequeño ejemplo de CDS, clase ADMP y por encima un Table Function.
