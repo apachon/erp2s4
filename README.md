@@ -1,4 +1,4 @@
-# [ABAP Programming - Upskilling from SAP ERP to SAP S/4HANA](https://help.sap.com/learning-journeys/138b6c1f704243f19e76668d1769e2ed)
+# [ABAP PROGRAMMING - UPSKILLING FROM SAP ERP TO SAP S/4HANA](https://help.sap.com/learning-journeys/138b6c1f704243f19e76668d1769e2ed)
 
 ![image](https://github.com/apachon/erp2s4/assets/10708505/98827e83-9ab4-4459-b867-54bc2bca5fbc)
 
@@ -25,13 +25,13 @@
 ## Expand your skills - Opcional
 - [ ] GW100 - PDF-Based Print Forms with SAP S/4HANA
 
-# SAP Learning Journeys
+# SAP LEARNING JOURNEYS
 - [X] [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journey/discover-sap-business-technology-platform)
 - [ ] [Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/learn-the-basics-of-abap-programming-on-sap-btp)
 - [ ] [Developing Extensions Using SAP S/4HANA Cloud, ABAP Environment](https://learning.sap.com/learning-journey/develop-extensions-using-sap-s-4hana-cloud-abap-environment)
 	  
-# SAP Discovery Center
+# SAP DISCOVERY CENTER
 - [X] [Getting Started with Discovery Center Missions](https://discovery-center.cloud.sap/protected/index.html#/mymissiondetail/72709/)
 
-# Youtube
+# YOUTUBE
 - [X] [Logali Group - ABAP para SAP HANA](https://www.youtube.com/watch?v=ZfCshZhplDM) => Pequeño ejemplo de CDS, clase ADMP y por encima un Table Function.
