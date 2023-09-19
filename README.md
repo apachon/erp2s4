@@ -27,6 +27,7 @@
 
 ## SAP Learning Journeys
 - [X] [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journey/discover-sap-business-technology-platform)
+- [ ] [Developing Extensions Using SAP S/4HANA Cloud, ABAP Environment](https://learning.sap.com/learning-journey/develop-extensions-using-sap-s-4hana-cloud-abap-environment)
 	  
 ## SAP Discovery Center
 - [X] [Getting Started with Discovery Center Missions](https://discovery-center.cloud.sap/protected/index.html#/mymissiondetail/72709/)
