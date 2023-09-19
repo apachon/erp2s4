@@ -27,6 +27,7 @@
 
 ## SAP Learning Journeys
 - [X] [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journey/discover-sap-business-technology-platform)
+- [ ] [Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/learn-the-basics-of-abap-programming-on-sap-btp)
 - [ ] [Developing Extensions Using SAP S/4HANA Cloud, ABAP Environment](https://learning.sap.com/learning-journey/develop-extensions-using-sap-s-4hana-cloud-abap-environment)
 	  
 ## SAP Discovery Center
