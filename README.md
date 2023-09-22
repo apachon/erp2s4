@@ -13,7 +13,7 @@
 - [ ] S4D425 - Extensibility for SAP S/4HANA
 - [ ] S4D437 - Building Transactional Apps with the ABAP RESTful Application Programming Model
 - [ ] S4D435 - Transactional Apps with CDS-Based BOPF Objects
-- [ ] CP13 - Building Apps with the ABAP RESTful Application Programming Model -openSAP
+- [ ] CP13 - Building Apps with the ABAP RESTful Application Programming Model - [openSAP](https://open.sap.com/courses/cp13)
 - [ ] CLD400 - Developing with SAP BTP ABAP Environment
 - [ ] CLD400k - Knowledge Badge Assessment
 - [ ] S4D445 - Data Migration Using The SAP S/4HANA Migration Cockpit
