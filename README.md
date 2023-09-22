@@ -35,3 +35,6 @@
 
 # YOUTUBE
 - [X] [Logali Group - ABAP para SAP HANA](https://www.youtube.com/watch?v=ZfCshZhplDM) => Pequeño ejemplo de CDS, clase ADMP y por encima un Table Function.
+
+# CLUB DE LECTURA
+- [ ] [Custom Extensions in SAP S/4HANA Implementations - A Practical Guide for Senior IT Leadership](https://www.sap.com/documents/2020/03/ceeea71f-8a7d-0010-87a3-c30de2ffd8ff.html)
