@@ -31,7 +31,7 @@
 - [ ] [Developing Extensions Using SAP S/4HANA Cloud, ABAP Environment](https://learning.sap.com/learning-journey/develop-extensions-using-sap-s-4hana-cloud-abap-environment)
 
 # OPENSAP
-- [ ] [a4h1 - ABAP Development for SAP HANA](https://open.sap.com/courses/a4h1)
+- [ ] [A4H1 - ABAP Development for SAP HANA](https://open.sap.com/courses/a4h1)
 - [ ] [CP13 - Building Apps with the ABAP RESTful Application Programming Model](https://open.sap.com/courses/cp13)
 	  
 # SAP DISCOVERY CENTER
