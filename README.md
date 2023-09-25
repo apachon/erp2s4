@@ -6,7 +6,8 @@
 - [X] D75AW - Delta ABAP Workbench SAP NetWeaver 7.0 to 7.5
 
 ## Become competent
-- [ ] H400 - ABAP Programming for SAP HANA
+- [X] H400 - ABAP Programming for SAP HANA
+	- [ ] Parte práctica 
 - [ ] S4D440 - Custom Code Migration from SAP ERP to SAP S/4HANA
 - [ ] S4DEV - Introduction to Application Programming on SAP S/4HANA
 - [ ] S4D430 - Building Views in ABAP Core Data Services (ABAP CDS)
