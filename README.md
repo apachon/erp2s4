@@ -46,6 +46,6 @@
 
 # STR - FORMACIÓN INTERNA
 - [X] Programación en S4 for Technical Teams (Parte 1) (1 HORA)
-- [ ] Programación en S4 for Technical Teams (Parte 2)
+- [ ] Programación en S4 for Technical Teams (Parte 2) Activar Fiori estándar y RAP
 
 
