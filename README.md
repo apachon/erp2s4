@@ -28,7 +28,9 @@
 
 # SAP LEARNING JOURNEYS
 - [X] [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journey/discover-sap-business-technology-platform)
+- [ ] [Acquiring Core ABAP Skills](https://learning.sap.com/learning-journey/acquire-core-abap-skills)
 - [ ] [Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/learn-the-basics-of-abap-programming-on-sap-btp)
+- [ ] [Practicing Clean Core Extensibility For SAP S/4HANA Cloud](https://learning.sap.com/learning-journey/practicing-clean-core-extensibility-for-sap-s-4hana-cloud)
 - [ ] [Developing Extensions Using SAP S/4HANA Cloud, ABAP Environment](https://learning.sap.com/learning-journey/develop-extensions-using-sap-s-4hana-cloud-abap-environment)
 
 # OPENSAP
@@ -43,6 +45,7 @@
 
 # CLUB DE LECTURA
 - [ ] [Custom Extensions in SAP S/4HANA Implementations - A Practical Guide for Senior IT Leadership](https://www.sap.com/documents/2020/03/ceeea71f-8a7d-0010-87a3-c30de2ffd8ff.html)
+	- [X] Part 1 	
 
 # STR - FORMACIÓN INTERNA
 - [X] Programación en S4 for Technical Teams (Parte 1) (1 HORA)
