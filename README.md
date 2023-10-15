@@ -52,7 +52,7 @@
 - [ ] Programación en S4 for Technical Teams (Parte 2) Activar Fiori estándar y RAP
 
 # VIDEOS JMSOLERA
-- [ ] [RAP: ¿Qué es ABAP Restful Application Programming Model? (+ Setup)](https://youtu.be/D8LRBiJ9NKA?si=SqmeyTi0qF7FIuDm)
+- [X] [RAP: ¿Qué es ABAP Restful Application Programming Model? (+ Setup)](https://youtu.be/D8LRBiJ9NKA?si=SqmeyTi0qF7FIuDm) Breve intro y explica como montar escenario Eclipse + ABAP Enviroment Cloud BTP
 - [ ] Fiori Elements - List Report: Odata básico con ABAP RESTful Application Programming Model
 	- [X] [Fiori Elements - List Report: Odata básico con ABAP RESTful Application Programming Model](https://youtu.be/-ly-yGc82Eg?si=cENFKkJJ_Ujg6hGr) (PART 1)
 
