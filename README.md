@@ -30,6 +30,7 @@
 - [X] [Discovering SAP Business Technology Platform](https://learning.sap.com/learning-journey/discover-sap-business-technology-platform)
 - [ ] [Acquiring Core ABAP Skills](https://learning.sap.com/learning-journey/acquire-core-abap-skills)
 - [ ] [Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/learn-the-basics-of-abap-programming-on-sap-btp)
+- [ ] [Getting Started with In-App Extensibility in SAP S/4HANA](https://learning.sap.com/learning-journey/get-started-with-in-app-extensibility-in-sap-s-4hana)
 - [ ] [Practicing Clean Core Extensibility For SAP S/4HANA Cloud](https://learning.sap.com/learning-journey/practicing-clean-core-extensibility-for-sap-s-4hana-cloud)
 - [ ] [Developing Extensions Using SAP S/4HANA Cloud, ABAP Environment](https://learning.sap.com/learning-journey/develop-extensions-using-sap-s-4hana-cloud-abap-environment)
 
