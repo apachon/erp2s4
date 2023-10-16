@@ -56,7 +56,7 @@
 - [X] [RAP: ¿Qué es ABAP Restful Application Programming Model? (+ Setup)](https://youtu.be/D8LRBiJ9NKA?si=SqmeyTi0qF7FIuDm) Breve intro y explica como montar escenario Eclipse + ABAP Enviroment Cloud BTP
 - [ ] Fiori Elements - List Report: Odata básico con ABAP RESTful Application Programming Model
 	- [X] [Fiori Elements - List Report: Odata básico con ABAP RESTful Application Programming Model](https://youtu.be/-ly-yGc82Eg?si=cENFKkJJ_Ujg6hGr) (PART 1: Creación, exposición de CDS y cración de APP en BAS)
- 	- [ ] [Fiori Elements - List Report: Metadata extension y Annotations](https://youtu.be/TU8jU1sl4g4?si=i1oArhYpBIJU0wKa) (PART 2: Formatear aplicación extndiendo con Metadata Extension y anotaciones )
+ 	- [X] [Fiori Elements - List Report: Metadata extension y Annotations](https://youtu.be/TU8jU1sl4g4?si=i1oArhYpBIJU0wKa) (PART 2: Formatear aplicación extndiendo con Metadata Extension y anotaciones )
   	- [ ] [Fiori Elements - List Report: Ayudas de búsqueda](https://youtu.be/lI2Hq39TWI8?si=YnZq9T4Sc2Khr5WW) (PART 3: Aydas de búsqueda)
 
 
