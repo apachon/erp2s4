@@ -10,7 +10,7 @@
 	- [ ] Parte práctica 
 - [X] S4D440 - Custom Code Migration from SAP ERP to SAP S/4HANA => Tareas de análisis PRE y DURANTE el UPGRADE
 - [X] S4DEV - Introduction to Application Programming on SAP S/4HANA
-- [ ] S4D430 - Building Views in ABAP Core Data Services (ABAP CDS)
+- [ ] S4D430 - Building Views in ABAP Core Data Services (ABAP CDS) => En curso Pag.85
 - [ ] S4D425 - Extensibility for SAP S/4HANA
 - [ ] S4D437 - Building Transactional Apps with the ABAP RESTful Application Programming Model
 - [ ] S4D435 - Transactional Apps with CDS-Based BOPF Objects
