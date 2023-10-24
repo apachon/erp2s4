@@ -60,4 +60,8 @@
  	- [X] [Fiori Elements - List Report: Metadata extension y Annotations](https://youtu.be/TU8jU1sl4g4?si=i1oArhYpBIJU0wKa) (PART 2: Formatear aplicación extndiendo con Metadata Extension y anotaciones)
   	- [X] [Fiori Elements - List Report: Ayudas de búsqueda](https://youtu.be/lI2Hq39TWI8?si=YnZq9T4Sc2Khr5WW) (PART 3: Aydas de búsqueda)
 
+# Devtoberfest
+## 2022
+- [ ] [A Beginner's Guide to the ABAP RESTful Application Programming Model](https://youtu.be/i0A9iZ_46fI?feature=shared)
+
 
